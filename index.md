@@ -6,6 +6,9 @@ Menschen. Besonders ein Mensch hat es auf ihn abgesehen: Kapitän Ahab.
 * liebt Tintenfisch
 * taucht tief und lange
 * ist weiß
+
 Moby Dick singt:
 > Oooouuuiiii uuuiii
 > aaaoooiiii ooooiiii
+
+<img src="/images/MobyDick.jpg" />
